@@ -24,6 +24,7 @@ Based on Assignment #1 the task in this assignment is to create a 2D iso contour
 
 ## Notes ##
 
+* Remember to upload some documentation file, with a short description of the methods you implemented and include some images or a video of your results. You can also describe your main learnings or problems during implementation. 
 * There aren't prototypes for every function you might need. Create functions as you need them.
 
 ## Screenshots for Minimum Requirements Solution ##
