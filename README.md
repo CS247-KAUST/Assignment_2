@@ -1,5 +1,4 @@
 # Assignment 2 Description (5% of total grade) #
-**Due: March 1st**
 
 Based on Assignment #1 the task in this assignment is to create a 2D iso contour renderer on top of the slice views.
 
